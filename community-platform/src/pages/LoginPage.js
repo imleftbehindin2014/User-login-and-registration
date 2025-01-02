@@ -156,7 +156,6 @@ const LoginPage = () => {
   return (
     <div className="min-h-screen w-full flex items-center justify-center bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 p-4">
       <div className="w-full max-w-md bg-white/80 backdrop-blur-sm rounded-2xl shadow-xl p-8 relative overflow-hidden">
-        {/* Decorative elements */}
         <div className="absolute top-0 left-0 w-32 h-32 bg-blue-100 rounded-full -translate-x-16 -translate-y-16 mix-blend-multiply"></div>
         <div className="absolute bottom-0 right-0 w-32 h-32 bg-purple-100 rounded-full translate-x-16 translate-y-16 mix-blend-multiply"></div>
         
